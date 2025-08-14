@@ -1,10 +1,10 @@
 ### Hi, I'm Daniel Torres
 
-- 🌱 Intern @ Oracle Brazil
+- 🌱 Former Oracle Intern
 - 🇧🇷 Brazilian
 - 🇺🇸 Fluent in English
 - 🎮Into game design
-- 💻Computer Science student
+- 💻Computer Scientist
 - ☕Coffee Lover
 
  <div>
